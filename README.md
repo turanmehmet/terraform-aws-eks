@@ -33,3 +33,6 @@ module "my-cluster" {
   tags = var.tags
 }
 ```
+
+For more information please refer the follwing link
+https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest
